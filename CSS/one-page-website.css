@@ -1,0 +1,29 @@
+h1 {
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    font-family: Verdana;
+}
+
+p {
+    font-family: Verdana;
+    line-height: 1.4;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: dodgerblue;
+}
+
+h3 {
+    font-family: Verdana;
+    line-height: 1.5;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(30, 255, 120);
+}
+
+input {
+    width: 180px;
+    margin: 4px;
+    border: 0.75px solid rgba(123, 123, 123);
+    border-radius: 3px;
+}

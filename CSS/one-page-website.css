@@ -3,10 +3,12 @@ h1 {
     border-color: white;
     text-align: center;
     font-family: Verdana;
+    font-size: 17px;
 }
 
 p {
     font-family: Verdana;
+    font-size: 14px;
     line-height: 1.4;
     margin-left: 20px;
     margin-right: 20px;
